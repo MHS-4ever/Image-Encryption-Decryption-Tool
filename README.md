@@ -22,4 +22,4 @@ This repository contains a Python application that provides a graphical user int
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/MHS-4ever/PRODIGY_CS_02.git
+   git clone https://github.com/MHS-4ever/Image-Encryption-Decryption-Tool.git
